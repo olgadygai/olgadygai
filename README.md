@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+[![Header](https://photos.google.com/album/AF1QipMgntgnvijOaHCuG_oM9S524RLz1CZjH48phaAi/photo/AF1QipOSlRoiOSr27tPEb9tsHLlluYoDj8lcw2vg_jkx)
 **olgadygai/olgadygai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
