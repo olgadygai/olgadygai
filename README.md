@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://drive.google.com/file/d/150TxHVBeYB7MJURG4Va-KovC-aIfcELi/view?usp=sharing)
+![Header](https://github.com/olgadygai/olgadygai/blob/main/Logo/Logo%20OD.png)
 
 ## I'm a QA Engineer.
 
