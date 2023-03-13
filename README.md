@@ -5,9 +5,8 @@
 </div>
 
 
-## My CV
->[Link to my CV](https://drive.google.com/file/d/1sojBSg1_WZAmQba8c783TCTDg5xnGH_x/view?usp=sharing)
->
+### My CV
+[Link to my CV](https://drive.google.com/file/d/1sojBSg1_WZAmQba8c783TCTDg5xnGH_x/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
