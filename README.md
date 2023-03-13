@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://drive.google.com/file/d/150TxHVBeYB7MJURG4Va-KovC-aIfcELi/view?usp=sharing)
-**olgadygai/olgadygai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://drive.google.com/file/d/150TxHVBeYB7MJURG4Va-KovC-aIfcELi/view?usp=sharing)
 
 ## I'm a QA Engineer.
 
