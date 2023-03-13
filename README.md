@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Header](https://github.com/olgadygai/olgadygai/blob/main/Logo/Logo%20OD.png)
+<div id="header" align="center">
+  <img src="https://github.com/olgadygai/olgadygai/blob/main/Logo/Logo%20OD.png" width="500" height="250"/>
+</div>
 
 ## I'm a QA Engineer.
 
