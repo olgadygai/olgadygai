@@ -28,5 +28,5 @@
 - [Postman](https://github.com/olgadygai/Postman)
 
 ### Contact
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/OlyaIv)
+![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/OlyaIv)
 
