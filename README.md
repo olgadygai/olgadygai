@@ -27,6 +27,6 @@
 - [SQL Queries](https://github.com/olgadygai/SQL)
 - [Postman](https://github.com/olgadygai/Postman)
 
-### Follow Me
+### Contact
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/OlyaIv)
 
