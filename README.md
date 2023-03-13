@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/olgadygai/olgadygai/blob/main/Logo/Logo%20OD.png" width="800" height="350"/>
+  <img src="https://github.com/olgadygai/olgadygai/blob/main/Logo/Logo%20OD.png" width="800" height="300"/>
 </div>
 
 ## I'm a QA Engineer.
